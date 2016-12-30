@@ -4,7 +4,7 @@
 ```sh
 $ git clone https://github.com/pk8est/transcode-node.git
 $ npm install
-$ npm start
+$ npm run dev
 ```
 通过浏览器打开 http://localhost/hls-list/100-hls/vod.m3u8
 
@@ -20,3 +20,7 @@ $ npm start
     }
 }
 ```
+
+通过浏览器打开 http://localhost/resource/test/play.html
+输入URL: http://localhost/hls/100-hls/vod-360p.m3u8
+点击播放
