@@ -1,5 +1,7 @@
 # transcode-node
 
+###依赖
+* 系统必须安装ffmpeg
 
 ```sh
 $ git clone https://github.com/pk8est/transcode-node.git
